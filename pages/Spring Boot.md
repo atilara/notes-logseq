@@ -13,3 +13,19 @@
 		- Has attributes
 	- Controller
 	- Repository
+- JWT Security API
+	- Permissions
+		- We use a `RoleEnum` and a `PermissionEnum` to define roles and permissions of each role in our application
+		- We store In the `PermissionEnum` every permission available on the system
+		- We define in the `RoleEnum` which permissions a Role has
+		- Example:
+		  ```java
+		  MANAGER(
+		          Set.of(
+		              PermissionEnum.MANAGER_CREATE,
+		              PermissionEnum.MANAGER_READ,
+		              PermissionEnum.MANAGER_UPDATE,
+		              PermissionEnum.MANAGER_DELETE
+		          )
+		  ),
+		  ```
