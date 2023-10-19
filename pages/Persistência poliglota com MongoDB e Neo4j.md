@@ -1,0 +1,18 @@
+- Porque utilizaríamos MongoDB e Neo4j juntos?
+- MongoDB
+	- Utiliza JSON, baseado em documentos
+	- Modelo de dados flexível
+- Neo4j
+	- Baseado em grafos, possui nós e relacionamentos
+	- *Native graph processing*
+		- Percorre o grafo de maneira muito eficiente
+	- Utiliza `cypher` como linguagem para construção de queries
+- *Property Graph Model Components*
+	- Nós
+		- Possuem atributos com chave-valor
+		- Nós possuem nomes, chamados de *labels*
+	- Relacionamentos
+		- Liga os nós com tipo (semelhante aos labels) e direção
+		- Pode possuir propriedades com chave-valor
+	-
+	-
