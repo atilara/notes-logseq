@@ -1,0 +1,9 @@
+- Projeto da 2VA
+	- Aplicação de construção de notas
+		- Dados de usuário baseado em documentos
+		- Dados de notas baseado em grafos
+	- Aplicação pra gestão de eventos
+		- Dados de palestras baseado em documentos
+		- Conexões entre palestrantes, público baseado em grafos
+	- Aplicação de consumo de dados do valorant
+		- Conexão entre duos, baseado em grafo
