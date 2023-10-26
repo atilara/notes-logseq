@@ -20,3 +20,26 @@
 	- Quais são métricas utilizadas para análise de qualidade de IA?
 - Estudo terciário
 	- Revisão de revisões
+- Passos gerais
+	- Planejar a SLR
+		- Identificar a necessidade
+		  collapsed:: true
+			- Após fechar tema, verificar se tem alguma revisão já feita
+			  collapsed:: true
+				- Se houver, verificar se está datada ou se aconteceu algum fato contundente
+				- Se não houver, analisar o motivo
+		- Planejar questão da pesquisa, deve ter possibilidade de encontrar no artigo
+		- Elaboração de protocolo
+		  id:: 653ac85a-672c-4d58-a7d0-4c97910d40cc
+		  collapsed:: true
+			- Questões de pesquisa
+			- Estratégia de busca, que base de dados utilizar
+			- Procedimentos para avaliação de qualidade
+			- Estratégia de extração de dados
+			- Estratégia de síntese de dados
+	- Conduzir a SLR
+		- Busca de artigos
+		- Selecionar estudos primários
+		- Avaliar qualidade dos estudos primários
+		- Extração de dados
+		- Síntese de dados
