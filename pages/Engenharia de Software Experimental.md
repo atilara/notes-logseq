@@ -1,1 +1,11 @@
 - [[Revisão Bibliográfica]]
+- Literatura
+	- Formal
+	- Cinza
+		- Blogs de pesquisadores
+		- Relatórios do governo
+		- Notícia
+		- GitHub
+		- Fóruns sobre tecnologias, ferramentas
+		- Ligação com N(Etnografia)
+		- Útil para indústria

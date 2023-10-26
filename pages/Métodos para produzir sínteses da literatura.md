@@ -1,0 +1,22 @@
+- Revisão sistemática da literatura
+- Mapeamento sistemático da literatura
+- Necessário um recorte, se não a quantidade de artigos é muito alto
+- Importante para **descartar abordagens improdutivas**
+- Na indústria, pode se beneficiar da agregação de evidências que a revisão gera
+	- Caso a área de atuação do profissional possua revisões e mapeamentos
+- Separa o que tem qualidade do que não tem
+- O resultado é uma **síntese** de um tópico
+- O processo de revisão tradicional tem menos rigor
+	- Pesquisa em qualquer banco de dados
+	- Escolha de qualquer critério
+- Revisão
+	- Análise de qualidade de trabalhos sobre um tópico
+	- Se o trabalho é bom ou ruim, precisa de critério
+	- Perguntas muito específicas
+	- Essa métrica é mais utilizada que essa outra nesse cenário?
+	- Chato
+- Mapeamento
+	- Análise mais alto nível
+	- Quais são métricas utilizadas para análise de qualidade de IA?
+- Estudo terciário
+	- Revisão de revisões

@@ -58,3 +58,4 @@
 	- Não dedicar tempo suficiente
 	- Não ter sua própria visão do tema
 - Writing in the sciences, Stanford
+- [[Métodos para produzir sínteses da literatura]]
