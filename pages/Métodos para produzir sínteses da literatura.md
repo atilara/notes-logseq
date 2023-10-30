@@ -37,9 +37,4 @@
 			- Procedimentos para avaliação de qualidade
 			- Estratégia de extração de dados
 			- Estratégia de síntese de dados
-	- Conduzir a SLR
-		- Busca de artigos
-		- Selecionar estudos primários
-		- Avaliar qualidade dos estudos primários
-		- Extração de dados
-		- Síntese de dados
+	- [[Conduzir a SLR]]
