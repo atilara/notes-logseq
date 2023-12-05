@@ -1,4 +1,0 @@
-- [[GitHub Foundations]]
-- [[GitHub Actions]]
-- [[GitHub Advanced Security]]
-- [[GitHub Administration]]
